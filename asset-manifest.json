@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/physio-website/static/css/main.af4fe133.css",
+    "main.js": "/physio-website/static/js/main.fd5a30c9.js",
+    "static/js/453.9caf2f65.chunk.js": "/physio-website/static/js/453.9caf2f65.chunk.js",
+    "index.html": "/physio-website/index.html",
+    "main.af4fe133.css.map": "/physio-website/static/css/main.af4fe133.css.map",
+    "main.fd5a30c9.js.map": "/physio-website/static/js/main.fd5a30c9.js.map",
+    "453.9caf2f65.chunk.js.map": "/physio-website/static/js/453.9caf2f65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4fe133.css",
+    "static/js/main.fd5a30c9.js"
+  ]
+}
