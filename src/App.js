@@ -47,7 +47,7 @@ const Contact = () => (
   <div className="page">
     <h1>Contact Us</h1>
     <p>Email: contact@physiocare.com</p>
-    <p>Phone: +123 456 7890</p>
+    <p>Phone: +91 75987 76906</p>
   </div>
 );
 
